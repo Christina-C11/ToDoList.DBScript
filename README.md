@@ -1,2 +1,2 @@
 # ToDoList.DBScripts
- Centralized version control and management for database schema changes and scripts
+This part of the To Do List project is all about setting up the database. It uses SQL scripts to create and organize tables in Microsoft SQL Server Express 2022. These scripts are important because they help arrange the data for the to-do list in a good way. This makes sure that the data for your to-do items is stored properly and the app can work well. This project is the first step in making sure the To Do List app can handle data correctly.
